@@ -1,0 +1,12 @@
+.card{
+    margin-top:15px;
+    border: 1px;
+    width:550px;
+    padding:45px;
+    position:absolute;
+    top:5%;
+    left:32%;
+}
+h5{
+    color:orange;
+}
